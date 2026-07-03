@@ -1,5 +1,9 @@
 {
   "textures": {
+    "bubbles": {
+      "name": "Bubbles",
+      "author": "notzyvex"
+    },
     "flat": {
       "author": "Ewan Howell"
     },
